@@ -1,0 +1,1 @@
+# Exercicio_Preparacao_Regressao_Linear_Energia_Solar
