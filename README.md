@@ -5,8 +5,8 @@ Exercício de Machine Learning que estima a **potência gerada por um sistema fo
 ## Nomes dos integrantes
 
 1- Murillo Boyadjian  RM: 570774,
-2- Renan Eskildssen   RM: 571097,
-3- Lucas Barros       RM: 571528
+ 2- Renan Eskildssen   RM: 571097,
+ 3- Lucas Barros       RM: 571528
 
 ## Sobre o projeto
 
